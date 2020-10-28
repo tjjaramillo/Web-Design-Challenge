@@ -1,6 +1,8 @@
 # Latitude & Longitude vs. Weather Patterns Analysis Webpage
 
-[Click here](https://tjjaramillo.github.io/Web-Design-Challenge/) to view my online dahboard for this repository.
+[Click here](https://tjjaramillo.github.io/Web-Design-Challenge/) to view my online dashboard for this repository.
+
+![Cloud image](images/clouds)
 
 ## Latitude - Latitude Analysis Dashboard with Attitude
 
