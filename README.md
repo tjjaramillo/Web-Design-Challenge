@@ -2,7 +2,7 @@
 
 [Click here](https://tjjaramillo.github.io/Web-Design-Challenge/) to view my online dashboard for this repository.
 
-![Cloud image](images/clouds)
+![Cloud image](images/clouds.jpg)
 
 ## Latitude - Latitude Analysis Dashboard with Attitude
 
