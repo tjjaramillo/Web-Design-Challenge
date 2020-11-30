@@ -6,7 +6,7 @@
 
 ## Latitude - Latitude Analysis Dashboard with Attitude
 
-Here I utilized HTML and CSS to create a visualization dashboard website using visualizations made from Matplotlib. Specifically, I be plotted [weather data](Resources/cities.csv).
+Here I utilized HTML and CSS to create a visualization dashboard website using visualizations made from Matplotlib. Specifically, I plotted [weather data](Resources/cities.csv).
 
 In building this dashboard, I created individual pages for each plot and a means by which we can navigate between them. These pages contain the visualizations and their corresponding explanations. I also have a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them.
 
